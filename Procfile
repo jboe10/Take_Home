@@ -1,1 +1,1 @@
-web: gunicorn app.wsgi
+web: gunicorn Take_Home.wsgi
